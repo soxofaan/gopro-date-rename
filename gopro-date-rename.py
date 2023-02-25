@@ -1,5 +1,5 @@
 """
-Rename GoPro MP4 files based on creation date,
+Rename GoPro MP4 files based on creation date
 (which is well hidden in the file's metadata).
 
 Assumes availability of the `ffprobe` command line tool
